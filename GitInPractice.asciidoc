@@ -1,3 +1,5 @@
 Hello Git
 Another line
-I keep getting that silly Ruby warning.
+
+Chapter 1
+// TODO: Is this funny?
